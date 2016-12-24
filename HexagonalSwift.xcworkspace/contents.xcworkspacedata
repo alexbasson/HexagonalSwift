@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:APIWhiteboard/APIWhiteboard.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:webWhiteboard/webWhiteboard.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Whiteboard/Whiteboard.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WhiteboardRepositories/WhiteboardRepositories.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iOSWhiteboard/iOSWhiteboard.xcodeproj">
+   </FileRef>
+</Workspace>
